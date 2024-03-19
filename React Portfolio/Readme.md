@@ -1,24 +1,45 @@
-# Portfolio de Proyectos de React
+# Wesley's React Projects Portfolio
 
-¡Bienvenido a mi portfolio de proyectos de React! En este repositorio encontrarás una colección de proyectos que he desarrollado utilizando React, una biblioteca JavaScript popular para la construcción de interfaces de usuario interactivas y dinámicas.
+Welcome to my portfolio of React projects! In this repository, you'll find a collection of projects I've developed using React, a popular JavaScript library for building interactive and dynamic user interfaces.
 
-## Proyectos Destacados
+---
 
-### [Proyecto 1: Nombre del Proyecto](enlace_al_proyecto)
-Breve descripción del proyecto. Incluye las tecnologías utilizadas y una visión general de lo que hace el proyecto. Puedes incluir capturas de pantalla o gifs animados para mostrar la interfaz de usuario si es posible.
+## 🚀 Featured Projects
 
-### [Proyecto 2: Nombre del Proyecto](enlace_al_proyecto)
-Breve descripción del proyecto. Incluye las tecnologías utilizadas y una visión general de lo que hace el proyecto. Puedes incluir capturas de pantalla o gifs animados para mostrar la interfaz de usuario si es posible.
+<details>
+  <summary><b>Project 1: Project Name</b></summary>
+  
+  Brief description of the project. Include the technologies used and an overview of what the project does. You can include screenshots or animated gifs to showcase the user interface if possible.
 
-### [Proyecto 3: Nombre del Proyecto](enlace_al_proyecto)
-Breve descripción del proyecto. Incluye las tecnologías utilizadas y una visión general de lo que hace el proyecto. Puedes incluir capturas de pantalla o gifs animados para mostrar la interfaz de usuario si es posible.
+  [View Project](project_link)
+</details>
 
-## Cómo Contribuir
+<details>
+  <summary><b>Project 2: Project Name</b></summary>
+  
+  Brief description of the project. Include the technologies used and an overview of what the project does. You can include screenshots or animated gifs to showcase the user interface if possible.
 
-Si estás interesado en colaborar o mejorar alguno de mis proyectos, ¡me encantaría recibir tu contribución! Puedes hacer un fork del repositorio, realizar tus cambios y luego enviar un pull request. También estoy abierto a sugerencias y comentarios sobre cómo mejorar mis proyectos.
+  [View Project](project_link)
+</details>
 
-## Contacto
+<details>
+  <summary><b>Project 3: Project Name</b></summary>
+  
+  Brief description of the project. Include the technologies used and an overview of what the project does. You can include screenshots or animated gifs to showcase the user interface if possible.
 
-¡Gracias por visitar mi portfolio! Si tienes alguna pregunta, sugerencia o simplemente quieres decir hola, no dudes en contactarme. Puedes encontrarme en [LinkedIn](enlace_a_linkedin) o [Twitter](enlace_a_twitter).
+  [View Project](project_link)
+</details>
 
-¡Espero que disfrutes explorando mis proyectos de React! 😊
+---
+
+## 🤝 How to Contribute
+
+If you're interested in collaborating or improving any of my projects, I'd love to receive your contribution! You can fork the repository, make your changes, and then submit a pull request. I'm also open to suggestions and feedback on how to improve my projects.
+
+---
+
+## 📫 Contact
+
+Thank you for visiting my portfolio! If you have any questions, suggestions, or just want to say hello, feel free to contact me. You can find me on [LinkedIn](linkedin_link) or [Twitter](twitter_link).
+
+I hope you enjoy exploring my React projects! 😊
