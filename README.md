@@ -1,4 +1,4 @@
-# Hi im Wesley, welcome to my repository
+# Hi im Wesley, Welcome to My Repository
 
 Hello there! I'm Wesley, a passionate software developer with expertise in various exciting technologies. In this repository, you'll find a collection of projects I've been working on, along with some examples of my work in React and Solidity.
 
