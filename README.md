@@ -11,7 +11,7 @@ Hello there! I'm Wesley, a passionate software developer with expertise in vario
   
   In this repository, you'll find a collection of projects I've developed using React, a popular JavaScript library for building interactive and dynamic user interfaces.
 
-  [View Project](https://github.com/WesleyJohn77/React-Portfolio/tree/main)
+  [View Portfolio](https://github.com/WesleyJohn77/React-Portfolio/tree/main)
 </details>
 
 <details>
