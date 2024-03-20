@@ -7,11 +7,11 @@ Hello there! I'm Wesley, a passionate software developer with expertise in vario
 ## Featured Projects
 
 <details>
-  <summary><b>Amazing React Project</b></summary>
+  <summary><b>My Amazing React Portfolio</b></summary>
   
-  This project is an example of my ability to develop dynamic and responsive web applications using React. Take a look around and let me know what you think!
+  In this repository, you'll find a collection of projects I've developed using React, a popular JavaScript library for building interactive and dynamic user interfaces.
 
-  [View Project](link_to_react_project)
+  [View Project](https://github.com/WesleyJohn77/React-Portfolio/tree/main)
 </details>
 
 <details>
@@ -27,5 +27,5 @@ Hello there! I'm Wesley, a passionate software developer with expertise in vario
 ## Contact
 If you're interested in collaborating on exciting projects or just want to chat about software development, feel free to get in touch! You can find me on [LinkedIn](link_to_linkedin) or [Twitter](link_to_twitter).
 
-Thanks for visiting my repository! I hope you find my projects interesting and helpful. Feel free to explore and contribute! 😊🚀
+Thanks for visiting my repository! I hope you find my projects interesting and helpful. Feel free to explore and contribute! 🚀
 
